@@ -1,4 +1,4 @@
-This repository was made to work on the group assignment of the course Advanced Analytics in Business.
+This repository was made to work on the group assignment of the course 'Advanced Analytics in Business and Big Data Platforms & Technologies'.
 
 **Group 5**
 
